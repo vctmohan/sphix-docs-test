@@ -11,6 +11,7 @@ Welcome to Sphinx Test's documentation!
    :caption: Contents:
 
    hw
+   hu
 
 
 Indices and tables

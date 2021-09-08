@@ -6,6 +6,8 @@
 Welcome to Sphinx Test's documentation!
 =======================================
 
+This is a test project. The purpose is to test the render.com static website hosting for VCollab documentation.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
